@@ -1,0 +1,124 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.fisrt-left {
+    float: left;
+    border: 2px solid grey;
+    padding: 30px ;
+}
+
+.first-middle {
+    color: white;
+    font-size: 30px;
+    float: left;
+    border: 2px solid grey;
+    padding: 20px 340px;
+}
+
+.header-text {
+    background-image: url('img/top30-TheKonarkSunTemple.jpg');
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+
+    color: yellow;
+    float: left;
+    width: 1321px;
+    font-size: 60px;
+    letter-spacing: 5px;
+    text-align: center;
+    padding: 40px;
+    border: 2px solid grey;
+}
+
+.first-right {
+    float: left;
+    border: 2px solid grey;
+    padding: 30px ;
+}
+
+.small-header {
+    float: left;
+    text-align: center;
+    width: 1401px;
+    border: 2px solid grey;
+    text-align: center;
+}
+
+.header {
+    background-image: url('img/top30-TheKonarkSunTemple.jpg');
+}
+
+.txt-align {
+    text-align: center;
+}
+
+.second-left {
+    float: left;
+    border: 2px solid grey;
+    width: 300px;
+    height: 500px;
+    padding: 10px;
+}
+
+.second-left h2 {
+    font-size: 50px;
+    text-align: center;
+    border-top: 2px solid black;
+    border-bottom: 2px solid black;
+    margin-bottom: 20px;
+}
+
+.second-left img {
+    padding-bottom: 20px;
+    border-bottom: 2px solid black;
+    margin-bottom:30px;
+}
+
+.second-left p {
+    padding-bottom: 30px;
+}
+
+.second-middle {
+    display:flex;
+    float: left;
+    border: 2px solid grey;
+    width: 763px;
+    height: 500px;
+    padding: 10px;
+}
+
+.second-middle h2 {
+    font-size: 70px;
+    padding-top: 150px;
+    margin-right: 40px;
+}
+
+.second-middle p {
+    font-size: 20px;
+    padding-top: 30px;
+    margin-left: 15px;
+}
+
+.second-right {
+    float: left;
+    border: 2px solid grey;
+    width: 270px;
+    height: 500px;
+    padding: 10px;
+}
+
+.second-right img {
+    display: block;
+    margin: 0 auto;
+}
+
+.second-right p {
+    padding-bottom: 10px;
+}
+
+#title2 {
+    border-top: 2px solid black;
+    border-bottom: 2px solid black;
+}

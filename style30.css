@@ -1,0 +1,15 @@
+
+.main {
+    display: flex;
+}
+
+.sub {
+    padding: 150px;
+    font-size: 30px;
+    background-color: chartreuse;
+    border: 3px solid crimson;
+}
+
+#hello {
+    color: white;
+}

@@ -1,0 +1,27 @@
+.a {
+    font-size: 50px;
+    color: hotpink;
+}
+
+.b {
+    font-size: 25px;
+    color: green;
+}
+
+#hello {
+    font-size: 50px;
+    color: red;
+}
+
+.goodbye {
+    font-size: 100px;
+    color: royalblue;
+}
+
+#main {
+    color: red;
+}
+
+.myclass {
+    color: blue;
+}

@@ -1,0 +1,18 @@
+#single {
+    background-color: green;
+    color: blue;
+    text-align: center;
+    padding: 20px;
+}
+
+.main {
+    display: block;
+}
+
+.sub {
+    background-color: burlywood;
+    border: 3px solid chartreuse;
+    padding:100px;
+    text-align: center;
+    font-size: 50px;
+}

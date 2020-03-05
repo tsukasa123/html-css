@@ -1,0 +1,77 @@
+* {
+    font-size: 20px;
+}
+
+.a {
+    border-style: dashed;    
+}
+
+.b {
+    border: 2px dashed black;
+}
+
+.c {
+    border: 2px double black;
+}
+
+.d {
+    border: 2px groove black;
+}
+
+.e {
+    border: 2px ridge black;
+}
+
+.f {
+    border: 2px inset black;
+}
+
+.g {
+    border: 2px outset black;
+}
+
+.h {
+    border: 2px hidden black;
+}
+
+.i {
+    border-top-style: dashed;
+    border-right: 2px double black;
+    border-bottom: 2px dashed black;
+    border-left: 2px ridge black;
+
+}
+
+.j {
+    border-style: solid;
+    border-top-width: 10px;
+    border-right-width: 10px;
+    border-bottom-width: 3px;
+    border-left-width: 3px;
+}
+
+.k {
+    border: 1px solid black;
+    padding-bottom: 30px;
+}
+
+.l {
+    border: 1px solid black;
+    padding-bottom: 20%;
+}
+
+.m {
+    border: 1px solid black;
+    padding-top: 20px;
+}
+
+.n {
+    border: 1px solid black;
+    padding-left: 20px;
+}
+
+.o {
+    border: 1px solid black;
+    padding-left: 50%;
+}
+
